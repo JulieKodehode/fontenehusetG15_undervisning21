@@ -1,0 +1,190 @@
+{
+  "House Stark": {
+    "Eddard Stark": {
+      "nickname": "Ned",
+      "alias": null
+    },
+    "Catelyn Tully Stark": {
+      "nickname": "Cat",
+      "alias": null
+    },
+    "Robb Stark": {
+      "nickname": "The Young Wolf",
+      "alias": null
+    },
+    "Sansa Stark": {
+      "nickname": null,
+      "alias": "Alayne Stone"
+    },
+    "Arya Stark": {
+      "nickname": "Arya Underfoot, Arya Horseface",
+      "alias": "Arry, Weasel, Nymeria, Salty, Cat of the Canals, Blind Beth, No One"
+    },
+    "Bran Stark": {
+      "nickname": "The Three-Eyed Crow",
+      "alias": null
+    },
+    "Rickon Stark": {
+      "nickname": null,
+      "alias": null
+    },
+    "Jon Snow": {
+      "nickname": "Lord Snow, The White Wolf",
+      "alias": null,
+      "title": "Jon Snow King of the North"
+    }
+  },
+  "House Lannister": {
+    "Tywin Lannister": {
+      "nickname": null,
+      "alias": null
+    },
+    "Cersei Lannister": {
+      "nickname": null,
+      "alias": null
+    },
+    "Jaime Lannister": {
+      "nickname": "Kingslayer",
+      "alias": null
+    },
+    "Tyrion Lannister": {
+      "nickname": "The Imp, Halfman, Demon Monkey",
+      "alias": "Yollo, Hugor Hill"
+    },
+    "Joffrey Baratheon": {
+      "nickname": null,
+      "alias": null
+    },
+    "Myrcella Baratheon": {
+      "nickname": null,
+      "alias": null
+    },
+    "Tommen Baratheon": {
+      "nickname": null,
+      "alias": null
+    }
+  },
+  "House Baratheon": {
+    "Robert Baratheon": {
+      "nickname": "The Usurper, The Stag",
+      "alias": null
+    },
+    "Stannis Baratheon": {
+      "nickname": "The King in the Narrow Sea",
+      "alias": null
+    },
+    "Renly Baratheon": {
+      "nickname": null,
+      "alias": null
+    },
+    "Shireen Baratheon": {
+      "nickname": null,
+      "alias": null
+    },
+    "Gendry Baratheon (acknowledged)": {
+      "nickname": null,
+      "alias": null
+    }
+  },
+  "House Targaryen": {
+    "Daenerys Targaryen": {
+      "nickname": "Dany, Stormborn",
+      "alias": "Khaleesi, Mother of Dragons, The Unburnt",
+      "title": "Daenerys Stormborn of House Targaryen, First of Her Name, Queen of the Andals and the Rhoynar and the First Men, Protector of the Realm, Khaleesi of the Great Grass Sea, the Unburnt, Breaker of Chains, and Mother of Dragons."
+    },
+    "Viserys Targaryen": {
+      "nickname": "The Beggar King",
+      "alias": null
+    },
+    "Aegon Targaryen": {
+      "nickname": null,
+      "alias": "Young Griff"
+    }
+  },
+  "House Arryn": {
+    "Jon Arryn": {
+      "nickname": null,
+      "alias": null
+    },
+    "Lysa Tully Arryn": {
+      "nickname": null,
+      "alias": null
+    },
+    "Robert Arryn": {
+      "nickname": "Sweetrobin",
+      "alias": null
+    }
+  },
+  "House Tully": {
+    "Hoster Tully": {
+      "nickname": null,
+      "alias": null
+    },
+    "Edmure Tully": {
+      "nickname": null,
+      "alias": null
+    },
+    "Brynden Tully": {
+      "nickname": "The Blackfish",
+      "alias": null
+    }
+  },
+  "House Tyrell": {
+    "Mace Tyrell": {
+      "nickname": "The Fat Flower",
+      "alias": null
+    },
+    "Olenna Redwyne Tyrell": {
+      "nickname": "The Queen of Thorns",
+      "alias": null
+    },
+    "Margaery Tyrell": {
+      "nickname": null,
+      "alias": null
+    },
+    "Loras Tyrell": {
+      "nickname": "The Knight of Flowers",
+      "alias": null
+    }
+  },
+  "House Martell": {
+    "Doran Martell": {
+      "nickname": null,
+      "alias": null
+    },
+    "Arianne Martell": {
+      "nickname": null,
+      "alias": null
+    },
+    "Quentyn Martell": {
+      "nickname": null,
+      "alias": "Frog"
+    },
+    "Oberyn Martell": {
+      "nickname": "The Red Viper",
+      "alias": null
+    }
+  },
+  "House Greyjoy": {
+    "Balon Greyjoy": {
+      "nickname": null,
+      "alias": null
+    },
+    "Asha Greyjoy": {
+      "nickname": null,
+      "alias": null
+    },
+    "Theon Greyjoy": {
+      "nickname": null,
+      "alias": "Reek"
+    },
+    "Victarion Greyjoy": {
+      "nickname": null,
+      "alias": null
+    },
+    "Euron Greyjoy": {
+      "nickname": "Crow's Eye",
+      "alias": null
+    }
+  }
+}

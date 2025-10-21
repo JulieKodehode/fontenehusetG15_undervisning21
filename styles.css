@@ -1,0 +1,59 @@
+/* GLOBAL STYLING */
+body {
+  margin: 0;
+}
+
+section {
+  min-height: 100vh;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* HEADER */
+.headerNav {
+  display: flex;
+}
+
+.navList {
+  display: flex;
+  gap: 8px;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.hamburgerIcon {
+  display: none;
+}
+
+/* MAIN */
+section {
+  height: 100vh;
+  padding: 16px;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heroText,
+.heroImg {
+  width: 50%;
+}
+
+/* FOOTER */
+
+/* MEDIA for tablets and under*/
+@media (max-width: 769px) {
+  .hero {
+    flex-direction: column;
+  }
+
+  .heroText,
+  .heroImg {
+    width: 100%;
+  }
+}
