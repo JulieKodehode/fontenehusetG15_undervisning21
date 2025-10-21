@@ -26,10 +26,16 @@ async function gotHouses() {
     console.log(response["House Stark"]["Jon Snow"].title);
     console.log(response["House Targaryen"]["Daenerys Targaryen"].title);
 
+    const houses = Object.keys(response) // To find each 'house' object
+    console.log(houses)
+    console.log(houses[0]) // Jon Snow
+    const houseStark = Object.keys(response["House Stark"]); // To find each 'name' object
+    console.log(houseStark[7]) // House Stark
+
     const gotCharacter = document.querySelector("#gotCharacter");
     gotCharacter.innerHTML = `
-        <h1 class="characterName">${response["House Stark"]["Jon Snow"].name}</h1>
-        <h3 class="characterHouse">${response["House Stark"]["Jon Snow"].house}</h3>
+        <h1 class="characterName">${houseStark[7]}</h1>
+        <h3 class="characterHouse">${houses[0]}</h3>
         <p class="characterTitle">${response["House Stark"]["Jon Snow"].title}</p>
     `;
 
