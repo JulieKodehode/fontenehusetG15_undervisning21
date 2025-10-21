@@ -29,6 +29,8 @@
       "alias": null
     },
     "Jon Snow": {
+      "name": "Jon Snow",
+      "house": "Stark",
       "nickname": "Lord Snow, The White Wolf",
       "alias": null,
       "title": "Jon Snow King of the North"
